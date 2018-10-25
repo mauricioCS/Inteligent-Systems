@@ -1,1 +1,1 @@
-# Inteligent-Systems
+# Intelligent-Systems
