@@ -15,6 +15,6 @@ To execute this project you have to open the ".ipynb" files with "Jupyter-Notebo
 I strongly recommend that you install jupyter-notebook with the package "Anaconda", following the steps provided by the link below:
 https://jupyter.readthedocs.io/en/latest/install.html
 
-# Althors
+# Authors
 - Eduardo Garcia Misiuk: github.com/eduardogmisiuk
 - Mauricio Caetano da Silva: github.com/mauricioCS
